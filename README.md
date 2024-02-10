@@ -19,3 +19,4 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [ ] Arquitetura de software
 
 ## Resumos
+- [Resumo 01 - O que faz um engenheiro de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumo%2001%20-%20O%20que%20faz%20um%20engenheiro%20de%20Software.md)
