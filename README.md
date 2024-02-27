@@ -21,3 +21,4 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 ## Resumos
 - [Resumo 01 - O que faz um engenheiro de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2001%20-%20O%20que%20faz%20um%20engenheiro%20de%20Software.md)
 - [Resumo 02 - Ciclo de Desenvolvimento de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2002%20-%20Ciclo%20de%20Desenvolvimento%20de%20Software.md)
+- [Resumo 03 - Quais os Papéis do Engenheiro de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2003%20-%20Quais%20os%20Pap%C3%A9is%20do%20Engenheiro%20de%20Software.md)
