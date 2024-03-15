@@ -11,8 +11,8 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [x] ✔️ Conceitos gerais e principais abordagens de desenvolvimento do software
 - [x] ✔️ CASE: as principais ferramentas no ciclo de desenvolvimento de softwares
 - [x] ✔️ Engenharia de requisitos
-- [ ] :shipit: Modelagem do sistema com a análise orientada a objetos  <sub>[Em andamento]</sub>
-- [ ] Codificação do projeto: padrões de programação e projeto do banco de dados
+- [x] ✔️ Modelagem do sistema com a análise orientada a objetos
+- [ ] :shipit: Codificação do projeto: padrões de programação e projeto do banco de dados <sub>[Em andamento]</sub>
 - [ ] Gerenciamento ágil dos sistemas
 - [ ] Validação do software: testes de softwares e aplicações de segurança no sistema
 - [ ] Evolução dos softwares: aplicação da Engenharia de Software em sistemas emergentes
