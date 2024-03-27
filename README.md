@@ -12,8 +12,8 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [x] ✔️ CASE: as principais ferramentas no ciclo de desenvolvimento de softwares
 - [x] ✔️ Engenharia de requisitos
 - [x] ✔️ Modelagem do sistema com a análise orientada a objetos
-- [ ] :shipit: Codificação do projeto: padrões de programação e projeto do banco de dados <sub>[Em andamento]</sub>
-- [ ] Gerenciamento ágil dos sistemas
+- [x] ✔️ Codificação do projeto: padrões de programação e projeto do banco de dados
+- [ ] :shipit: Gerenciamento ágil dos sistemas <sub>[Em andamento]</sub>
 - [ ] Validação do software: testes de softwares e aplicações de segurança no sistema
 - [ ] Evolução dos softwares: aplicação da Engenharia de Software em sistemas emergentes
 - [ ] Arquitetura de software
@@ -23,3 +23,4 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [Resumo 02 - Ciclo de Desenvolvimento de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2002%20-%20Ciclo%20de%20Desenvolvimento%20de%20Software.md)
 - [Resumo 03 - Quais os Papéis do Engenheiro de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2003%20-%20Quais%20os%20Pap%C3%A9is%20do%20Engenheiro%20de%20Software.md)
 - [Resumo 04 - Metologias Clássicas](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2004%20-%20Metologias%20Classicas.md)
+- [Resumo 05 - Metodologia Cascata](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2005%20-%20Metodologia%20Cascata.md)
