@@ -13,10 +13,10 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [x] ✔️ Engenharia de requisitos
 - [x] ✔️ Modelagem do sistema com a análise orientada a objetos
 - [x] ✔️ Codificação do projeto: padrões de programação e projeto do banco de dados
-- [ ] :shipit: Gerenciamento ágil dos sistemas <sub>[Em andamento]</sub>
-- [ ] Validação do software: testes de softwares e aplicações de segurança no sistema
-- [ ] Evolução dos softwares: aplicação da Engenharia de Software em sistemas emergentes
-- [ ] Arquitetura de software
+- [x] ✔️ Gerenciamento ágil dos sistemas
+- [x] ✔️ Validação do software: testes de softwares e aplicações de segurança no sistema
+- [x] ✔️ Evolução dos softwares: aplicação da Engenharia de Software em sistemas emergentes
+- [ ] :shipit: Arquitetura de software <sub>[Em andamento]</sub>
 
 ## Resumos
 - [Resumo 01 - O que faz um engenheiro de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2001%20-%20O%20que%20faz%20um%20engenheiro%20de%20Software.md)
@@ -24,3 +24,4 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [Resumo 03 - Quais os Papéis do Engenheiro de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2003%20-%20Quais%20os%20Pap%C3%A9is%20do%20Engenheiro%20de%20Software.md)
 - [Resumo 04 - Metologias Clássicas](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2004%20-%20Metologias%20Classicas.md)
 - [Resumo 05 - Metodologia Cascata](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2005%20-%20Metodologia%20Cascata.md)
+- [Resumo 06 - Metodologia Prototipação](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2006%20-%20Metodologia%20Prototipa%C3%A7%C3%A3o.md)
