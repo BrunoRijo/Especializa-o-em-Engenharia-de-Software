@@ -1,11 +1,14 @@
 # Especialização em Engenharia de Software 
 Opa, tudo bem? 🙂
 
-O objetivo desse repositório é armazenar documentações, resumos e projetos desenvolvidos por mim durante o curso intensivo de **Pós Graduação em Engenharia de Software**, na modalidade EAD, que estou cursando na [**UNOPAR**](https://www.unopar.com.br/).
+O objetivo desse repositório é armazenar documentações, resumos e projetos desenvolvidos por mim durante o curso intensivo de **Pós Graduação em Engenharia de Software**, na modalidade EAD, cursado na [**UNOPAR**](https://www.unopar.com.br/).
 
 ## Duração do Curso
  - Início em **08 de Dezembro de 2023.**
- - Conclusão prevista para **17 de Maio de 2024.**
+ - Conclusão em **07 de Junho de 2024.**
+
+## Certificado de Conclusão 
+[Clique aqui para ver](https://kroton.platosedu.io/docs/visualizar/298.298.f6037b92534eaa7b2a6b2974d35354e0c835afc100c7431ad5c7ccffa155f711)
 
 ## Disciplinas 
 - [x] ✔️ Conceitos gerais e principais abordagens de desenvolvimento do software
@@ -16,7 +19,7 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [x] ✔️ Gerenciamento ágil dos sistemas
 - [x] ✔️ Validação do software: testes de softwares e aplicações de segurança no sistema
 - [x] ✔️ Evolução dos softwares: aplicação da Engenharia de Software em sistemas emergentes
-- [ ] :shipit: Arquitetura de software <sub>[Em andamento]</sub>
+- [x] ✔️ Arquitetura de software
 
 ## Resumos
 - [Resumo 01 - O que faz um engenheiro de Software](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2001%20-%20O%20que%20faz%20um%20engenheiro%20de%20Software.md)
