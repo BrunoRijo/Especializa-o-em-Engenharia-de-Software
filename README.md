@@ -29,3 +29,4 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [Resumo 05 - Metodologia Cascata](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2005%20-%20Metodologia%20Cascata.md)
 - [Resumo 06 - Metodologia Prototipação](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2006%20-%20Metodologia%20Prototipa%C3%A7%C3%A3o.md)
 - [Resumo 07 - Desenvolvimento Baseado em Componentes](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2007%20-%20Desenvolvimento%20Baseado%20em%20Componentes.md)
+- [Resumo 08 - Metodologia Incremental](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2008%20-%20Metodologia%20Incremental.md)
