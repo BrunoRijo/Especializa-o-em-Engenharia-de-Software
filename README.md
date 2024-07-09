@@ -32,3 +32,4 @@ O objetivo desse repositório é armazenar documentações, resumos e projetos d
 - [Resumo 08 - Metodologia Incremental](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2008%20-%20Metodologia%20Incremental.md)
 - [Resumo 09 - Metodologia Aspiral](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2009%20-%20Modelo%20Aspiral.md)
 - [Resumo 10 - Classificação das Ferramentas CASE](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2010%20-%20Classifica%C3%A7%C3%A3o%20das%20ferramentas%20CASE.md)
+- [Resumo 11 - Ferramentas case para Levantamento de Análise de Requisitos](https://github.com/BrunoRijo/Especializa-o-em-Engenharia-de-Software/blob/main/Resumos/Resumo%2011%20-%20Ferramentas%20case%20para%20Levantamento%20de%20An%C3%A1lise%20de%20Requisitos.md)
